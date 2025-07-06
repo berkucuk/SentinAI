@@ -1,0 +1,7 @@
+PyQt6
+google-generativeai
+python-dotenv
+beautifulsoup4
+googlesearch-python
+selenium
+social-analyzer
