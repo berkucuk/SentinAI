@@ -1,4 +1,7 @@
-# SentinAI: AI-Powered Cybersecurity Assistant
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/berkucuk/SentinAI/blob/main/icons/icon.png?raw=true" alt="SentinAI Logosu" width="130" style="margin-right: 15px;">
+  <h1>SentinAI: AI-Powered Cybersecurity Assistant</h1>
+</div>
 
   **SentinAI** is a modern desktop application developed with PyQt6. It leverages Google Gemini AI models to perform two fundamental cybersecurity tasks: generating realistic password lists based on personal information (PassGen) and gathering open-source intelligence (OSINT). The application features a user-friendly interface with multi-language support (English, Turkish, Russian).
 
