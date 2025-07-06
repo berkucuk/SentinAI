@@ -11,6 +11,10 @@ This project is intended strictly for educational purposes and for legal securit
 
 The use of this application for any illegal or malicious activities is strictly prohibited. All legal and ethical responsibility arising from the use of this tool rests solely with the user. The developer assumes no liability and is not responsible for any misuse or damage caused by this program.
 
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/berkucuk/SentinAI/refs/heads/main/Ui.png" alt="SentinAI Ui" width="430" style="margin-right: 15px;">
+</div>
+
 ## Project Goal
 
 This project aims to provide a powerful and accessible toolkit for cybersecurity professionals, researchers, and enthusiasts. It combines complex command-line tools with the generative power of Google Gemini AI, presenting them in a single, intuitive interface.
